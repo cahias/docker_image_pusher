@@ -10,3 +10,4 @@ mysql
 php
 acgpiano/sqli-labs
 c0ny1/upload-labs
+php:7.3.26
