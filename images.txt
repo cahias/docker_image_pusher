@@ -12,3 +12,4 @@ acgpiano/sqli-labs
 c0ny1/upload-labs
 php:7.3.26
 openjdk:8-jdk-alpine
+sagemath:9.6
